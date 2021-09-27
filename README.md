@@ -1,4 +1,4 @@
-# Board-Game
+# Balance-Modifier
 
 A C program where players all start with a specified initial balance. A player divides a specific amount of money equally and gives it to specific people. After each transaction the balances for each player is displayed. Balance amounts are saved in a binary file gifts.dat. 
 
